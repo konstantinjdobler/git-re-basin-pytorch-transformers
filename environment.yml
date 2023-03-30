@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pytorch::pytorch
+  - dargparser
+  - transformers
+  - scipy
+  - tqdm
