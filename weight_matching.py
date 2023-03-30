@@ -1,7 +1,7 @@
 """
 PyTorch implementation of the weight matching algorithm from the Git Re-Basin paper by Ainsworth et al. (https://arxiv.org/abs/2209.04836).
 Adapted from https://github.com/themrzmaster/git-re-basin-pytorch/blob/5965f4e5697f3b10dc3ed576af36dc08477b2dc6/utils/weight_matching.py
-Original code form the paper using JAX: https://github.com/samuela/git-re-basin
+Original code from the paper using JAX: https://github.com/samuela/git-re-basin
 Changes compared to themrzmaster/git-re-basin-pytorch by Konstantin Dobler:
 - Small bugfixes
 - Some explanatory comments that were helpful for me
